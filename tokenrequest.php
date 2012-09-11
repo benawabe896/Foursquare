@@ -4,8 +4,8 @@
 	// This file is intended to be used as your redirect_uri for the client on Foursquare
 	
 	// Set your client key and secret
-	$client_key = "O2HBL2HGNDLYMLGM2BEKYTS45IRYHFIB3AGXUEJVHQETAJHX";
-	$client_secret = "MT0BJAQUJB0NSGQROIQZQQT5OQUBXQPPVLGOHSACFCBS0DPM";
+	$client_key = "";
+	$client_secret = "";
 	$redirect_uri = "http://ec2-23-20-187-113.compute-1.amazonaws.com/Foursquare/tokenrequest.php";
 	
 	// Load the Foursquare API library
